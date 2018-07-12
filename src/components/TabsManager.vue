@@ -13,6 +13,9 @@ export default {
   	data: null
   },
 
+  created() {
+  },
+
   data () {
     return {
 
